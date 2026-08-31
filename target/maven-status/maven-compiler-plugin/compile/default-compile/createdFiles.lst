@@ -1,0 +1,11 @@
+ar/edu/calidadpedidos/ServicioPedidos.class
+ar/edu/calidadpedidos/ValidadorPedido.class
+ar/edu/calidadpedidos/Producto.class
+ar/edu/calidadpedidos/Pedido.class
+ar/edu/calidadpedidos/Main.class
+ar/edu/calidadpedidos/ReportePedidos.class
+ar/edu/calidadpedidos/Cliente.class
+ar/edu/calidadpedidos/CalculadorDescuentos.class
+ar/edu/calidadpedidos/ItemPedido.class
+ar/edu/calidadpedidos/ConfiguracionConexion.class
+ar/edu/calidadpedidos/RepositorioPedidos.class
